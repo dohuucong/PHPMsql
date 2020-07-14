@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="499c412d-d502-4fe8-b5d2-5dd33c6054eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1dhYKPYuhuWkkOBrjBadc6yge6M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Session/Conctes_data/FilePHP" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Session\Conctes_data\FilePHP" />
+      <recent name="C:\xampp\htdocs\Session" />
+      <recent name="C:\xampp\htdocs\Session\Session_1" />
+      <recent name="C:\xampp\htdocs\PHPMysql\Sesion 1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPMysql\sesion1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ss1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/PHPMysql/sesion1/ss1.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499c412d-d502-4fe8-b5d2-5dd33c6054eb" name="Default Changelist" comment="" />
+      <created>1592878727685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592878727685</updated>
+      <workItem from="1592878729147" duration="261000" />
+      <workItem from="1592879104027" duration="3038000" />
+      <workItem from="1593049867204" duration="1385000" />
+      <workItem from="1593051309713" duration="3573000" />
+      <workItem from="1593056738863" duration="2052000" />
+      <workItem from="1593482429542" duration="4638000" />
+      <workItem from="1593653752955" duration="6643000" />
+      <workItem from="1594087369221" duration="4834000" />
+      <workItem from="1594258420835" duration="7066000" />
+      <workItem from="1594548242052" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593482692541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593482692541" />
+    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592879198362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592879198362" />
+    <state x="392" y="46" key="#ss1.php" timestamp="1593485506527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="46" key="#ss1.php/0.0.1366.728@0.0.1366.728" timestamp="1593485506527" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1594090128645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594090128645" />
+    <state x="498" y="87" key="NewPhpClassDialog" timestamp="1593052081829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1593052081829" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1594261850281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1594261850281" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1593053319036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593053319036" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1593053467379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593053467379" />
+  </component>
+</project>
